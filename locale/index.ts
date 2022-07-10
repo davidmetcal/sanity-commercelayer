@@ -102,7 +102,7 @@ const locale: Locale = {
 		languages: {
 			'en-us': 'inglese',
 			'it-it': 'italiano',
-			'es-es': 'espanol',
+			'es-es': 'español',
 		},
 		method: 'metodo',
 		outOfStock: 'La quantità richiesta non è disponibile',
