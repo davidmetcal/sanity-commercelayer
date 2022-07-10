@@ -4,11 +4,6 @@
   command = "npm run build"
   functions = "/netlify"
 
-[build.environment]
-  NEXT_SERVERLESS = "true"
-  BUILD_LANGUAGES = "en-US,it-IT,es-ES"
-  BUILD_CMS = "sanity"
-
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
